@@ -22,6 +22,7 @@ import javax.swing.JOptionPane;
  * @author HP
  */
 //los paneles en las propiedad tiene que tener marcadas las casillas de closabel y iconifiable
+//comentario de prueba para el pull
 public class agregarInventario extends javax.swing.JInternalFrame {
 
     int contador = 0;
